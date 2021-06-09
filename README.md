@@ -1,1 +1,1 @@
-# Human-Face-Detection-using-Haar-Cascade-using-OpenCV-in-Python
+# Human-Face-Detection-using-Haar-Cascade-in-OpenCV-Python
